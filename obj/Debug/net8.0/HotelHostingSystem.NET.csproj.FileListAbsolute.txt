@@ -1,0 +1,14 @@
+C:\Repositories\HotelHostingSystem.NET\bin\Debug\net8.0\HotelHostingSystem.NET.exe
+C:\Repositories\HotelHostingSystem.NET\bin\Debug\net8.0\HotelHostingSystem.NET.deps.json
+C:\Repositories\HotelHostingSystem.NET\bin\Debug\net8.0\HotelHostingSystem.NET.runtimeconfig.json
+C:\Repositories\HotelHostingSystem.NET\bin\Debug\net8.0\HotelHostingSystem.NET.dll
+C:\Repositories\HotelHostingSystem.NET\bin\Debug\net8.0\HotelHostingSystem.NET.pdb
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.AssemblyInfoInputs.cache
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.AssemblyInfo.cs
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.csproj.CoreCompileInputs.cache
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.dll
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\refint\HotelHostingSystem.NET.dll
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.pdb
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\HotelHostingSystem.NET.genruntimeconfig.cache
+C:\Repositories\HotelHostingSystem.NET\obj\Debug\net8.0\ref\HotelHostingSystem.NET.dll
